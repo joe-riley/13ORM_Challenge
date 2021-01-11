@@ -9,8 +9,7 @@ Because this application won’t be deployed, you’ll also need to create a wal
 Before you start, clone [the starter code](https://github.com/coding-boot-camp/fantastic-umbrella).
 
 ## Walk Through Video
-(Walk Through Video)[https://drive.google.com/file/d/14OMSmvmA6O2HjaOmZMNajUID-59xTyMK/view]
-
+[Walk Through Video](https://drive.google.com/file/d/14OMSmvmA6O2HjaOmZMNajUID-59xTyMK/view)
 
 ## User Story
 
